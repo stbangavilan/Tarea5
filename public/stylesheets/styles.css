@@ -1,0 +1,37 @@
+
+/*
+    white: #f7f9f9;
+    light-blue: #2081c3;
+    dark-blue: #0a2c42;
+    grey: #bfbfbf;
+    */
+
+.barraformato {
+   
+   font-family: Arial, Helvetica, sans-serif;
+   background-color: rgb(52, 130, 219);
+   padding: 20px;
+   text-align: center;
+}
+
+.centrado_img{
+text-align: center;
+padding: 40px;
+}
+
+.centradobtn{
+    text-align: center;
+    padding: 10px;
+
+}
+
+.espacio{
+
+    padding: 10px;
+}
+
+.cards-container {
+    display: flex;
+    padding: 10%;
+    justify-content: space-around;
+  }
